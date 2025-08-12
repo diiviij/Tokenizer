@@ -55,3 +55,12 @@ Clone the repo:
 ```bash
 git clone https://github.com/yourusername/vite-tokenizer.git
 cd vite-tokenizer
+----
+
+  
+## 🔗 Preview
+
+- **Demo (Reality):** [View here](https://tjrfsw-3000.csb.app/)
+- **Expectation (Mockup):** [View here](https://chatgpt.com/canvas/shared/689b9043ec4c8191857919f56f17dde6)
+
+
